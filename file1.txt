@@ -2,4 +2,8 @@ hello git
 second
 third - my branch
 fourth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> eabf9ad (mybranch1 두 번째 커밋)
